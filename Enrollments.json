@@ -1,1 +1,12 @@
-[{"first_name": "adnan", "last_name": "dawood", "course_name": "p100"}]
+[
+    {
+        "_student_first_name": "Adnan",
+        "_student_last_name": "Dawood",
+        "_course_name": "P100"
+    },
+    {
+        "_student_first_name": "John",
+        "_student_last_name": "Moor",
+        "_course_name": "P200"
+    }
+]
